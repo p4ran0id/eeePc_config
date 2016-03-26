@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/cinnamon-applications.menu</MergeFile>
+	<Menu>
+		<Name>Other</Name>
+		<AppDir>/home/p4ran0id/.local/share/applications</AppDir>
+		<Exclude>
+			<Filename>cinnamon-settings-daemon.desktop</Filename>
+		</Exclude>
+	</Menu>
+</Menu>

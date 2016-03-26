@@ -1,0 +1,6 @@
+05:20:38 GMT+0100 (CET) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:6774)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:72:7)
+16:20:40 GMT+0100 (CET) (LOG) /background.html: Went offline. at /js/main/Extension.js:4:1833
+16:20:41 GMT+0100 (CET) (LOG) /background.html: Went online. at /js/main/Extension.js:4:1907

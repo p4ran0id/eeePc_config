@@ -1,0 +1,30 @@
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/mate-applications.menu</MergeFile>
+	<Menu>
+		<Name>Other</Name>
+		<Include>
+			<Filename>application-browser.desktop</Filename>
+		</Include>
+		<AppDir>/home/p4ran0id/.local/share/applications</AppDir>
+		<Include>
+			<Filename>chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>chrome-apdfllckaahabafndbhieahigkjlhalf-Default.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop</Filename>
+		</Include>
+	</Menu>
+	<Menu>
+		<Name>Development</Name>
+		<Include>
+			<Filename>gtk3-widget-factory.desktop</Filename>
+		</Include>
+		<AppDir>/home/p4ran0id/.local/share/applications</AppDir>
+	</Menu>
+</Menu>

@@ -1,0 +1,44 @@
+01:07:20 GMT+0100 (CET) (WARN) https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjc1OqR9tfLAhVL_3IKHfKaDVcQFggdMAA&url=https%3A%2F%2Fgithub.com%2Fskalanux%2Feverpad-note-launch&usg=AFQjCNGCAGBEUvyacHscwU2UVGrODn4EjQ&sig2=NxagugX2_c_5z9tVY4kkAA&cad=rjt: Couldn't initialize clearly custom detect
+    at Object.H [as isCustomFormat] (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:9113)
+    at Object.isSiteEligible (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:538)
+    at b (/content/tooltips/custom_tooltip_check.js:2:93)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content/tooltips/custom_tooltip_check.js:2:352
+    at Object.I.execCb (/third_party/require/require.js:6:12300)
+    at Object.B.check (/third_party/require/require.js:6:6850)
+    at Object.<anonymous> (/third_party/require/require.js:6:8952)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:670
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:9310
+03:09:05 GMT+0100 (CET) (WARN) https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0ahUKEwi8qoSZkNjLAhUD9HIKHWLHC2IQFggrMAU&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FMolotowcocktail&usg=AFQjCNEQLl_s_JAgkrg2IZvdoBpZiUmjIQ&sig2=T8OAGusfduu8GRw88ezvvw&cad=rjt: Couldn't initialize clearly custom detect
+    at Object.H [as isCustomFormat] (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:9113)
+    at Object.isSiteEligible (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:538)
+    at b (/content/tooltips/custom_tooltip_check.js:2:93)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content/tooltips/custom_tooltip_check.js:2:352
+    at Object.I.execCb (/third_party/require/require.js:6:12300)
+    at Object.B.check (/third_party/require/require.js:6:6850)
+    at Object.<anonymous> (/third_party/require/require.js:6:8952)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:670
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:9310
+13:04:55 GMT+0100 (CET) (WARN) https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0ahUKEwiDsL3-o9nLAhUkLZoKHRprCjwQFggcMAA&url=https%3A%2F%2Fwiki.archlinux.org%2Findex.php%2FSLiM&usg=AFQjCNGd0M7AMsAVhNIs5TrvcW8wHsyubQ&sig2=RBWCx0u10MfVzWlATTEggw&bvm=bv.117604692,d.bGQ: Couldn't initialize clearly custom detect
+    at Object.H [as isCustomFormat] (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:9113)
+    at Object.isSiteEligible (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:538)
+    at b (/content/tooltips/custom_tooltip_check.js:2:93)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content/tooltips/custom_tooltip_check.js:2:352
+    at Object.I.execCb (/third_party/require/require.js:6:12300)
+    at Object.B.check (/third_party/require/require.js:6:6850)
+    at Object.<anonymous> (/third_party/require/require.js:6:8952)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:670
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:9310
+13:04:56 GMT+0100 (CET) (WARN) https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&sqi=2&ved=0ahUKEwiDsL3-o9nLAhUkLZoKHRprCjwQFggcMAA&url=https%3A%2F%2Fwiki.archlinux.org%2Findex.php%2FSLiM&usg=AFQjCNGd0M7AMsAVhNIs5TrvcW8wHsyubQ&sig2=RBWCx0u10MfVzWlATTEggw&bvm=bv.117604692,d.bGQ: Couldn't initialize clearly custom detect
+    at Object.H [as isCustomFormat] (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:9113)
+    at Object.isSiteEligible (eval at finishLoadingScript (/content/require/require-config.js:2:113), <anonymous>:2:538)
+    at Object.b [as urlChanged] (/content/tooltips/custom_tooltip_check.js:2:93)
+    at c (/js/common/Browser.js:2:2786)
+    at EventImpl.dispatchToListener (extensions::event_bindings:387:22)
+    at Event.publicClass.(anonymous function) [as dispatchToListener] (extensions::utils:94:26)
+    at EventImpl.dispatch_ (extensions::event_bindings:371:35)
+    at EventImpl.dispatch (extensions::event_bindings:393:17)
+    at Event.publicClass.(anonymous function) [as dispatch] (extensions::utils:94:26)
+15:30:06 GMT+0100 (CET) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:6774)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:72:7)

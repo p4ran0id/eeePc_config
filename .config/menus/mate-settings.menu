@@ -1,0 +1,24 @@
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Desktop</Name>
+	<MergeFile type="parent">/etc/xdg/menus/mate-settings.menu</MergeFile>
+	<Menu>
+		<Name>Preferences</Name>
+		<AppDir>/home/p4ran0id/.local/share/applications</AppDir>
+		<Exclude>
+			<Filename>mdmsetup.desktop</Filename>
+		</Exclude>
+		<Exclude>
+			<Filename>xscreensaver-properties.desktop</Filename>
+		</Exclude>
+	</Menu>
+	<Menu>
+		<Name>Administration</Name>
+		<Exclude>
+			<Filename>lightdm-gtk-greeter-settings.desktop</Filename>
+		</Exclude>
+		<AppDir>/home/p4ran0id/.local/share/applications</AppDir>
+	</Menu>
+</Menu>

@@ -1,0 +1,35 @@
+[Default Applications]
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+inode/directory=Thunar-folder-handler.desktop
+text/plain=pluma.desktop
+image/bmp=eom.desktop
+image/gif=eom.desktop
+image/jpeg=eom.desktop
+image/png=eom.desktop
+image/tiff=eom.desktop
+application/pdf=atril.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-XPB6EY.desktop
+message/rfc822=userapp-Thunderbird-XPB6EY.desktop
+x-scheme-handler/news=userapp-Thunderbird-XPB6EY.desktop
+x-scheme-handler/snews=userapp-Thunderbird-XPB6EY.desktop
+x-scheme-handler/nntp=userapp-Thunderbird-XPB6EY.desktop
+x-scheme-handler/feed=userapp-Thunderbird-XPB6EY.desktop
+application/rss+xml=userapp-Thunderbird-XPB6EY.desktop
+application/x-extension-rss=userapp-Thunderbird-XPB6EY.desktop
+application/x-extension-eml=thunderbird.desktop
+
+[Added Associations]
+application/zip=engrampa.desktop;
+x-scheme-handler/news=userapp-Thunderbird-XPB6EY.desktop;
+x-scheme-handler/snews=userapp-Thunderbird-XPB6EY.desktop;
+x-scheme-handler/nntp=userapp-Thunderbird-XPB6EY.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-XPB6EY.desktop;
+application/rss+xml=userapp-Thunderbird-XPB6EY.desktop;
+application/x-extension-rss=userapp-Thunderbird-XPB6EY.desktop;
+application/x-font-otf=mate-font-viewer.desktop;
+application/x-font-ttf=mate-font-viewer.desktop;
+application/x-extension-eml=userapp-Thunderbird-XPB6EY.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-XPB6EY.desktop;
+message/rfc822=userapp-Thunderbird-XPB6EY.desktop;

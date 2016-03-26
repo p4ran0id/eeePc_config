@@ -1,0 +1,40 @@
+{
+   "description": " ",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDdYrEJS87jEq1zPdNRj60WaOqntYRjpRMM4we1MsYgEXIH3zdgmp6wTELDDD6vUaXq+SrnStFc+lTKOt/WAginXf+CFXQa79sn0hqFBw4wT6Ig6/FK7vTEhTnw/9CEAzv2Tlm1LqbUK1BBpek2z8FMLJ+U3eekYFvKec8ay8fhGwIDAQAB",
+   "name": "Into The Mist",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 158, 0, 0, 0 ],
+         "frame": [ 94, 88, 87 ],
+         "frame_inactive": [ 209, 209, 209 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 209, 209, 209 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 0, 0, 0 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_toolbar": "images/theme_toolbar.png",
+         "theme_window_control_background": "images/theme_window_control_background.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "background_tab": [ 0.54, 0.29, 0.31 ],
+         "buttons": [ 0, 0, 1 ],
+         "frame": [ 0, 0, 0.82 ],
+         "frame_inactive": [ 0, 0, 0.82 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 0, 0, 0.82 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
